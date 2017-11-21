@@ -20,7 +20,7 @@ ez_diffusion_model(data, id, rt, correct, within = NULL, s = 0.1)
 \item{s}{Numeric. An optional scaling constant.}
 }
 \description{
-This is the convenient wrwapper function for the EZ-diffusion model
+This is a convenience wrapper function for the EZ-diffusion model.
 }
 \examples{
 data <- data.frame(

@@ -78,7 +78,8 @@ ezDiffusion <- function(proportion_correct, rt_variance, rt_mean, s = 0.1, data)
 
 #' The EZ-diffusion model
 #'
-#' This is the convenient wrwapper function for the EZ-diffusion model
+#' This is a convenience wrapper function for the EZ-diffusion model.
+#'
 #' @param data A \code{data.frame} that contains the data.
 #' @param id Character. The name of the variable that contains the participant identifier.
 #' @param rt Character. The name of the variable that contains the reaction times.
